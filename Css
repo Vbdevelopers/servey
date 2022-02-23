@@ -1,0 +1,43 @@
+header {
+border-radius:10px;
+border:7px;
+border-style:double ;
+border-color:green;
+}
+footer{
+    background-color:skyblue;
+}
+body{
+     padding:20px;
+    height:900px;
+    border:5px;
+    border-style:double ;
+    color:black;
+    border-radius:20px;
+}
+input{
+    width:70%;
+    border-color:green;
+    border-radius:40px;
+    
+}
+.submit{
+    border-color:blue;
+    border-radius:7px;
+    background-color:blue;
+    color:white;
+    width:80px;
+}
+.submit:hover{
+    color:white;
+    background-color:red;
+    border-color:red;
+    cursor:pointer ;
+    
+}
+footer{
+    border-radius:40px;
+}
+select{
+    width:150px;
+}
